@@ -1,0 +1,7 @@
+export const GET_ERRORS = "GET_ERRORS";
+export const USER_LOADING = "USER_LOADING";
+export const SET_CURRENT_USER = "SET_CURRENT_USER";
+
+export const CREATE_LISTING = "CREATE_LISTING";
+export const LISTING_LOADING = "LISTING_LOADING";
+export const FETCH_LISTINGS = "FETCH_LISTINGS";

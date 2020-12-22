@@ -1,0 +1,29 @@
+ /* size of the card */
+.cardsize{
+    width : 350px;
+    height : 400px
+
+}
+
+ /* color of the icon before the click */
+.favorite-color {
+    color: #fdc8c4 ;
+  }
+
+ /* color of the icon after click */
+.after-favorite-color {
+    color: #f44336 ;
+  }
+
+/* defijing cursor to be pointer for the heart */
+  .fa-heart  {
+    cursor: pointer;
+  }
+
+ /* styling for the action icons edit/delete */
+.action-icons{
+    display: flex;
+    justify-content: flex-end;
+    padding:10px;
+}
+

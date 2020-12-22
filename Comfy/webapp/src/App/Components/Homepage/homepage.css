@@ -1,0 +1,58 @@
+/* color which is applied to the navbar and footer */
+.colorbg{
+    background-color:#C0C0C0;
+  }
+
+/* font style for the icon on the navbar   */
+.fontstyle{
+  font: 'Lucida Sans';
+}
+
+/* Size of the first image on the homepage screen. */
+.main-homepage-img {
+  width:750px;
+  height:450px;
+}
+
+/* The image size with the second section "Rent your Way" */
+.homepage-img {
+  width:80%;
+  height:95%;
+  margin-left: 50px;
+}
+
+/* The image size with the third section "Rent Easier" */
+.online-img{
+  display: block;
+  margin-top: 150px;
+  margin-left: 175px;
+}
+ 
+/* Color and font of the text under rent your way */
+.homepagearticle1 {
+  color: rgb(240, 213, 173);
+  font-family: "Lovelo", "Avenir", "Roboto", sans-serif ;
+}
+
+/* Color and font of the text under rent your way */
+.homepagearticle2 {
+  color: cornflowerblue;
+  font-family: "Lovelo", "Avenir", "Roboto", sans-serif ;
+}
+
+/* Shape of the box of the user experience section along with color, border and padding */
+.bubble{
+  border: 1px ridge white(240, 213, 173);
+  background-color: #C0C0C0;
+  padding: 20px;
+}
+
+/* Color of the icon in the user experience box */
+.bubble i {
+  color: white;
+}
+
+/* to change the cursor to pointer on hover */
+.cursor:hover{
+  cursor: pointer;
+}
